@@ -1,0 +1,4 @@
+include:
+  - hadoop
+  - hadoop.yarn
+  - .
